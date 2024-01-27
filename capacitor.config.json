@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "galerie-photos",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android-builder": "set  CAPACITOR_ANDROID_STUDIO_PATH=<C:UsersBabacar WadeDocumentsStudio Android> && <normal build comand>"
+}
