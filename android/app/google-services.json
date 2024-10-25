@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918652062278",
+    "project_id": "app-galerie-photo-ionic",
+    "storage_bucket": "app-galerie-photo-ionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918652062278:android:434d5ac088a6f7751a1847",
+        "android_client_info": {
+          "package_name": "com.babacar.galerie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBDSLLgQYuKmebZyANW-Z1HpiKkhwiq3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
